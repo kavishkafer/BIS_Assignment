@@ -53,8 +53,8 @@ Key plots included in the analysis:
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/kavishkafer/BIS_Assignment.git
+cd BIS_Assignment
 ```
 2. Run the data preprocessing and EDA scripts:
 ```bash
